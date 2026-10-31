@@ -6,7 +6,7 @@
   "description": "기본 공구·벽체·조립가구 관리와 안전한 수리 범위를 안내합니다.",
   "accent": "#6B7F56",
   "url": "https://diy.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "adsReady": false,
   "pageTitle": "DIY·집수리 생활 정보 가이드 | GuideHollow"
 }
